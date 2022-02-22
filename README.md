@@ -20,8 +20,11 @@ https://nodejs.org/en/download/
 2.If you don't have angular cli - run this command before cloning the project - npm install -g @angular/cli
 
 3.run this command in your desired directory - git clone https://github.com/gothinkster/angular-realworld-example-app.git
+
 4.run - npm i
+
 5.run - ng s
+
 
 
 
