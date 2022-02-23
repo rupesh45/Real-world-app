@@ -1,6 +1,8 @@
 # Real-world-app
 This codebase id demonstration of a fully fledged application built with Angular.
 
+The codebase is on the master branch.
+
 General functionality:
 
 Authenticate users via JWT (login/signup pages + logout button on settings page)
